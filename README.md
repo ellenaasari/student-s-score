@@ -48,3 +48,8 @@ project CRUD nilai siswa sederhana
     ```bash
     php artisan serve
     ```
+
+7. Search on browser
+ ```bash
+    http://127.0.0.1:8000/students
+    ```
