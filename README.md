@@ -48,5 +48,3 @@ project CRUD nilai siswa sederhana
     ```bash
     php artisan serve
     ```
-
-7. Login credentials
